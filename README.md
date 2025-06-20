@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vinod Naik</h1>
-<h3 align="center">A passionate Java Full-Stack developer from Bangalore, India. Who has deep understanding on computer architechture,dbms,os and networking.</h3>
+<h3 align="center">A passionate Java Full-Stack developer and DataScience Enthusiast from Bangalore, India. Who has deep understanding on computer architechture,dbms,os and networking.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinodnaik01&label=Profile%20views&color=0e75b6&style=flat" alt="vinodnaik01" /> </p>
 
